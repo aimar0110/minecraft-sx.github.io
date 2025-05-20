@@ -116,3 +116,9 @@
 [20May2025 02:05:21.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nya left the game
 [20May2025 02:05:57.689] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nya[/127.239.10.120:34665] logged in with entity id 3347 at (8.935805658933955, 70.0, 0.14051980333938072)
 [20May2025 02:05:57.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nya joined the game
+[20May2025 02:08:44.087] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanilloGOAT lost connection: Disconnected
+[20May2025 02:08:44.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanilloGOAT left the game
+[20May2025 02:09:40.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nya has made the advancement [Stone Age]
+[20May2025 02:10:20.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nya has made the advancement [Getting an Upgrade]
+[20May2025 02:11:50.390] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nya lost connection: Disconnected
+[20May2025 02:11:50.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nya left the game
