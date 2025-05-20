@@ -107,3 +107,12 @@
 [20May2025 01:55:59.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanilloGOAT joined the game
 [20May2025 01:56:22.036] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@28ed6e7f[id=<null>,name=Kyoogre,properties={},legacy=false] (/127.93.100.13:41633) lost connection: Disconnected
 [20May2025 01:56:29.884] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@291ed65c[id=<null>,name=Kyoogre,properties={},legacy=false] (/127.93.100.13:55453) lost connection: Disconnected
+[20May2025 02:02:47.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanilloGOAT has made the advancement [Monster Hunter]
+[20May2025 02:03:16.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanilloGOAT was slain by Zombie
+[20May2025 02:04:40.636] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nya[/127.239.10.120:34389] logged in with entity id 3234 at (-3.5, 64.0, -9.5)
+[20May2025 02:04:40.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nya joined the game
+[20May2025 02:05:04.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nya was slain by Zombie
+[20May2025 02:05:21.783] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nya lost connection: Disconnected
+[20May2025 02:05:21.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nya left the game
+[20May2025 02:05:57.689] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nya[/127.239.10.120:34665] logged in with entity id 3347 at (8.935805658933955, 70.0, 0.14051980333938072)
+[20May2025 02:05:57.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nya joined the game
